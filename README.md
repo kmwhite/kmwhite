@@ -6,6 +6,6 @@ Hi! I'm Kristofer.
 - ⚡ Fun fact: Day to day web dev, but my soul belongs to systems, retro-shooters, and performance hacks.  
 
 <div>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmwhite&custom_title=languages" />
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=kmwhite&count_private=true&show_icons=true&custom_title=stats" />
+  <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmwhite&custom_title=languages" />
+  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=kmwhite&count_private=true&show_icons=true&custom_title=stats" />
 </div>
