@@ -7,5 +7,5 @@ Hi! I'm Kristofer.
 
 <div>
   <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmwhite&custom_title=languages" />
-  <img height="225px" src="https://github-readme-stats.vercel.app/api?username=kmwhite&count_private=true&show_icons=true&custom_title=stats" />
+  <!-- <img height="225px" src="https://github-readme-stats.vercel.app/api?username=kmwhite&count_private=true&show_icons=true&custom_title=stats" /> -->
 </div>
